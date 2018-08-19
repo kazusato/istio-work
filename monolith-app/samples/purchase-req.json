@@ -1,0 +1,14 @@
+{
+ "customer":{
+  "lastName":"TANAKA",
+  "firstName":"ICHIRO"
+ },
+ "reservationId":"R00000001",
+ "paymentType":"CreditCard",
+ "creditCardData":{
+  "cardNumber":"1111222233334444",
+  "cardHolderName":"Ichiro Tanaka",
+  "expiration":"10/19",
+  "securityCode":"999"
+ }
+}

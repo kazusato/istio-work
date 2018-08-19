@@ -1,0 +1,9 @@
+{
+ "customer":{
+  "lastName":"TANAKA",
+  "firstName":"ICHIRO"
+ },
+ "serviceList":[
+{"date":"2018-09-07","name":"name1","price":{"amount":1500,"currencyCode":"JPY"},"serviceId":1},{"date":"2018-09-07","name":"name2","price":{"amount":2000,"currencyCode":"JPY"},"serviceId":2},{"date":"2018-09-07","name":"name3","price":{"amount":1350,"currencyCode":"JPY"},"serviceId":3}    
+ ] 
+}
